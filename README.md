@@ -13,59 +13,57 @@
 
 `注意：`github直接下载的文件EE5346_2023_project-main为一级目录（根目录），**需要将`Autumn_val`、`Night_val`、`Suncloud_val`这个三个数据集放在根目录下**。
 #### 一级目录（项目的根目录）
-├── Autumn_mini_query
-├── Autumn_val
-├── Kudamm_diff_final.txt
-├── Kudamm_easy_final.txt
-├── Kudamm_mini_query
-├── Kudamm_mini_ref
-├── Night_mini_ref
-├── Night_val
-├── README.md
-├── robotcar-dataset-sdk
-├── robotcar_qAutumn_dbNight_diff_final.txt
-├── robotcar_qAutumn_dbNight_easy_final.txt
-├── robotcar_qAutumn_dbNight_val_final.txt
-├── robotcar_qAutumn_dbNight_val_result.txt
-├── robotcar_qAutumn_dbSunCloud_diff_final.txt
-├── robotcar_qAutumn_dbSunCloud_easy_final.txt
-├── robotcar_qAutumn_dbSunCloud_val_final.txt
-├── robotcar_qAutumn_dbSunCloud_val_result.txt
-├── Suncloud_mini_ref
-├── Suncloud_val
-├── verification_Baseline.py
+- ├── Autumn_mini_query
+- ├── Autumn_val
+- ├── Kudamm_diff_final.txt
+- ├── Kudamm_easy_final.txt
+- ├── Kudamm_mini_query
+- ├── Kudamm_mini_ref
+- ├── Night_mini_ref
+- ├── Night_val
+- ├── README.md
+- ├── robotcar-dataset-sdk
+- ├── robotcar_qAutumn_dbNight_diff_final.txt
+- ├── robotcar_qAutumn_dbNight_easy_final.txt
+- ├── robotcar_qAutumn_dbNight_val_final.txt
+- ├── robotcar_qAutumn_dbNight_val_result.txt
+- ├── robotcar_qAutumn_dbSunCloud_diff_final.txt
+- ├── robotcar_qAutumn_dbSunCloud_easy_final.txt
+- ├── robotcar_qAutumn_dbSunCloud_val_final.txt
+- ├── robotcar_qAutumn_dbSunCloud_val_result.txt
+- ├── Suncloud_mini_ref
+- ├── Suncloud_val
+- ├── verification_Baseline.py
 #### 二级目录（一级目录中的robotcar-dataset-sdk）
-├── extrinsics
-├── LICENSE
-├── matlab
-├── models
-├── python
-├── README.md
-└── tags
+- ├── extrinsics
+- ├── LICENSE
+- ├── matlab
+- ├── models
+- ├── python
+- ├── README.md
+- └── tags
 #### 三级目录（二级目录中的python）
-├── build_pointcloud.py
-├── camera_model.py
-├── icp.py
-├── image.py
-├── __init__.py
-├── interpolate_poses.py
-├── play_images.py
-├── play_radar.py
-├── play_road_boundary.py
-├── play_velodyne.py
-├── pointcloud_world.txt
-├── project_laser_into_camera1.py
-├── project_laser_into_camera.py
-├── project.sh
-├── __pycache__
-├── radar.py
-├── README.md
-├── requirements.txt
-├── road_boundary.py
-├── transform.py
-├── velodyne.py
-├── verification_PRcurve.py
-├── verification_Predict.py
+- ├── build_pointcloud.py
+- ├── image.py
+- ├── __init__.py
+- ├── interpolate_poses.py
+- ├── play_images.py
+- ├── play_radar.py
+- ├── play_road_boundary.py
+- ├── play_velodyne.py
+- ├── pointcloud_world.txt
+- ├── project_laser_into_camera1.py
+- ├── project_laser_into_camera.py
+- ├── project.sh
+- ├── __pycache__
+- ├── radar.py
+- ├── README.md
+- ├── requirements.txt
+- ├── road_boundary.py
+- ├── transform.py
+- ├── velodyne.py
+- ├── verification_PRcurve.py
+- ├── verification_Predict.py
 
 
 
